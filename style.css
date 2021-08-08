@@ -1,0 +1,28 @@
+html, body {
+    margin: 0 auto;
+    padding: 0;
+    background-image: url(images/fdqrYk.jpg);
+    font-family: 'Akaya Kanadaka', cursive;
+  }
+  canvas {
+    margin:auto;
+    display: flex;
+    margin-top: 30px;
+  }
+  h1{
+    color: aqua;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 29px;
+    margin-bottom: -5px;
+    padding-top: 19px;
+  }
+  h2{
+    font-size: 19px;
+    color: azure;
+    text-align: center;
+    padding: 4px;
+    margin-top: 1px;
+}
+  
